@@ -1,0 +1,5 @@
+print("\nhello world\n")
+print("i m here \n")
+#print("hello world\n")
+print("to  learn python\n")
+print("let's goooooooooo\n")
