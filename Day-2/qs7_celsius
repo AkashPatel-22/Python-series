@@ -1,0 +1,14 @@
+#Ask the user for a temperature in Celsius(stringinput).
+#Convert it to float,then calculate and print temperature in Fahrenheit.
+#Conversion formula:
+# FahrenheitTemp=(CelsiusTemp∗(9/5))+32).
+
+celsius_temp = input("enter temperature in C :")
+
+x = float(celsius_temp)
+
+FahrenheitTemp = (x * (9/50) + 32)
+
+print("celsius in float",x)
+
+print("after coversion", FahrenheitTemp)
